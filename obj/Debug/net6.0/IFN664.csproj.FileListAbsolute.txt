@@ -1,0 +1,15 @@
+/Users/vesperyang/Projects/IFN664/IFN664/bin/Debug/net6.0/IFN664
+/Users/vesperyang/Projects/IFN664/IFN664/bin/Debug/net6.0/IFN664.deps.json
+/Users/vesperyang/Projects/IFN664/IFN664/bin/Debug/net6.0/IFN664.runtimeconfig.json
+/Users/vesperyang/Projects/IFN664/IFN664/bin/Debug/net6.0/IFN664.dll
+/Users/vesperyang/Projects/IFN664/IFN664/bin/Debug/net6.0/IFN664.pdb
+/Users/vesperyang/Projects/IFN664/IFN664/obj/Debug/net6.0/IFN664.csproj.AssemblyReference.cache
+/Users/vesperyang/Projects/IFN664/IFN664/obj/Debug/net6.0/IFN664.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vesperyang/Projects/IFN664/IFN664/obj/Debug/net6.0/IFN664.AssemblyInfoInputs.cache
+/Users/vesperyang/Projects/IFN664/IFN664/obj/Debug/net6.0/IFN664.AssemblyInfo.cs
+/Users/vesperyang/Projects/IFN664/IFN664/obj/Debug/net6.0/IFN664.csproj.CoreCompileInputs.cache
+/Users/vesperyang/Projects/IFN664/IFN664/obj/Debug/net6.0/IFN664.dll
+/Users/vesperyang/Projects/IFN664/IFN664/obj/Debug/net6.0/refint/IFN664.dll
+/Users/vesperyang/Projects/IFN664/IFN664/obj/Debug/net6.0/IFN664.pdb
+/Users/vesperyang/Projects/IFN664/IFN664/obj/Debug/net6.0/IFN664.genruntimeconfig.cache
+/Users/vesperyang/Projects/IFN664/IFN664/obj/Debug/net6.0/ref/IFN664.dll
