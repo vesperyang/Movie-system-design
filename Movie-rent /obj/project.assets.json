@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vesperyang/Desktop/N11055189/IFN664/IFN664/IFN664.csproj",
+      "projectUniqueName": "/Users/vesperyang/Desktop/664/N11055189/IFN664/IFN664/IFN664.csproj",
       "projectName": "IFN664",
-      "projectPath": "/Users/vesperyang/Desktop/N11055189/IFN664/IFN664/IFN664.csproj",
+      "projectPath": "/Users/vesperyang/Desktop/664/N11055189/IFN664/IFN664/IFN664.csproj",
       "packagesPath": "/Users/vesperyang/.nuget/packages/",
-      "outputPath": "/Users/vesperyang/Desktop/N11055189/IFN664/IFN664/obj/",
+      "outputPath": "/Users/vesperyang/Desktop/664/N11055189/IFN664/IFN664/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vesperyang/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
       }
     }
   }
